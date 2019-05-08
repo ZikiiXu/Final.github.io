@@ -1,0 +1,98 @@
+#title{
+	text-align: center;
+	font-size: 80px;
+	font-family: cursive;
+	color:#2b4d59;
+	margin: 30px;
+}
+
+#contents{
+	border-left: 6px solid #a2a9b1;
+	background-color: lightblue;
+	padding-right: 5px
+	font-size: 95%;
+	font-family: sans-serif;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 250px;
+	display: block;
+	margin-bottom: 100px;
+}
+
+#content{
+	margin: 20px;
+	font-family: cursive;
+}
+
+.list{
+	font-family: cursive;
+}
+
+.artiststatement{
+	font-family: cursive;
+	font-size: 250%;
+}
+
+.artist{
+	font-family: 'Just Another Hand', cursive;
+	font-size: 150%;
+	margin:20px;
+}
+
+
+#imageone{
+	width: 235px;
+}
+
+#media{
+	font-family: cursive;
+	margin: 15px
+}
+
+
+.fa {
+  padding: 20px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin: 25px;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-wechat {
+  background: Green;
+  color: white;
+}
+
+
+.bottom {
+  background-color: #316e84;
+  overflow: hidden;
+}
+
+.bottom a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 180px;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.bottom a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.bottom a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+
